@@ -8,7 +8,7 @@ module.exports = adjoint
  * @param {mat2} a the source matrix
  * @returns {mat2} out
  */
-function ajoint(out, a) {
+function adjoint(out, a) {
   // Caching this value is nessecary if out == a
   var a0 =  a[0]
   out[0] =  a[3]
