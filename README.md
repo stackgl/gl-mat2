@@ -86,4 +86,4 @@ var scale = require('gl-mat2/scale')
 
 ## License
 
-[zlib](http://en.wikipedia.org/wiki/Zlib_License). See [LICENSE.md](http://github.com/hughsk/gl-mat2/blob/master/LICENSE.md) for details.
+[zlib](http://en.wikipedia.org/wiki/Zlib_License). See [LICENSE.md](https://github.com/stackgl/gl-mat2/blob/master/LICENSE.md) for details.
