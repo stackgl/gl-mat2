@@ -1,6 +1,6 @@
 {
   "name": "gl-mat2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "gl-matrix's mat2, split into smaller pieces",
   "main": "index.js",
   "license": {
