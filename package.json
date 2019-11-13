@@ -4,7 +4,7 @@
   "description": "gl-matrix's mat2, split into smaller pieces",
   "main": "index.js",
   "license": {
-    "type": "zlib",
+    "type": "Zlib",
     "url": "http://github.com/gl-modules/gl-mat2/blob/master/LICENSE.md"
   },
   "scripts": {
